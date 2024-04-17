@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Report</name>
+    </assembly>
+    <members>
+        <member name="T:Report.MainPage">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+        </member>
+        <member name="T:Common.CustomAttributes.JsonPropertyOrderAttribute">
+            <summary>
+            Sets a custom serialization order for a property.
+            The default value is 0.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,1 @@
+D:\Commesse\C#\Report\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppPackages\Report_1.0.0.1_Debug_Test\Report_1.0.0.1_x86_Debug.msix

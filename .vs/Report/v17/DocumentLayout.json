@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Commesse\\C#\\Report\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3142DAF4-2B6E-4AE3-A104-B40243BD880B}|Report.csproj|d:\\commesse\\c#\\report\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3142DAF4-2B6E-4AE3-A104-B40243BD880B}|Report.csproj|solutionrelative:mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3142DAF4-2B6E-4AE3-A104-B40243BD880B}|Report.csproj|d:\\commesse\\c#\\report\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3142DAF4-2B6E-4AE3-A104-B40243BD880B}|Report.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3142DAF4-2B6E-4AE3-A104-B40243BD880B}|Report.csproj|d:\\commesse\\c#\\report\\common\\data\\recipedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3142DAF4-2B6E-4AE3-A104-B40243BD880B}|Report.csproj|solutionrelative:common\\data\\recipedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Commesse\\C#\\Report\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MainViewModel.cs",
+              "ToolTip": "D:\\Commesse\\C#\\Report\\MainViewModel.cs",
+              "RelativeToolTip": "MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:39:59.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Commesse\\C#\\Report\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\Commesse\\C#\\Report\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAEwC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:42:04.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeData.cs",
+              "DocumentMoniker": "D:\\Commesse\\C#\\Report\\Common\\Data\\RecipeData.cs",
+              "RelativeDocumentMoniker": "Common\\Data\\RecipeData.cs",
+              "ToolTip": "D:\\Commesse\\C#\\Report\\Common\\Data\\RecipeData.cs",
+              "RelativeToolTip": "Common\\Data\\RecipeData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:14:26.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
